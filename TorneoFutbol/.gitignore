@@ -1,0 +1,23 @@
+# Archivos generados por .NET
+bin/
+obj/
+
+# Archivos de Visual Studio
+.vs/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+Debug/
+Release/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
